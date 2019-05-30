@@ -2,7 +2,7 @@
 Dropdown是面向PC端的基于jQuery开发的轻量级下拉框插件，支持key/value搜索，有token和select两种模式。
 
 ## Version
-- 1.2.0
+- 1.2.3
 
 ## Support
 - Internet Explorer 8+
@@ -14,6 +14,9 @@ Dropdown是面向PC端的基于jQuery开发的轻量级下拉框插件，支持k
 - jQuery 1.4+
 
 ## Log
+* 2018-05-30 version 1.2.3
+  * Added `onSelect` event hook for the selection callback.
+  * A little example will explain this feature soon.
 * 2018-05-28 version 1.2.2
   * 优化value值的匹配，[#33](/../../issues/33)
 * 2017-10-13 version 1.2.0
